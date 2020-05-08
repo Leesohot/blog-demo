@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="232d8308-5ed1-4d08-a1fb-b5f85043740b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="sohot-blog" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZR26guH35G2MTzDyk4qyb6stRt" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yam" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/.vuepress/config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/.vuepress/public/vuepress" />
+      <recent name="$PROJECT_DIR$/docs/.vuepress" />
+      <recent name="$PROJECT_DIR$/docs/.vuepress/plugins" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="love.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/znote-master/docs/.vuepress/public/love/love.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.love.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="232d8308-5ed1-4d08-a1fb-b5f85043740b" name="Default Changelist" comment="" />
+      <created>1584787411859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584787411859</updated>
+      <workItem from="1584787413018" duration="2810000" />
+      <workItem from="1585296264300" duration="863000" />
+      <workItem from="1585737873610" duration="1495000" />
+      <workItem from="1586008810611" duration="233000" />
+      <workItem from="1586150758531" duration="1865000" />
+      <workItem from="1586166077423" duration="4849000" />
+      <workItem from="1587107248550" duration="881000" />
+      <workItem from="1588225203553" duration="147000" />
+      <workItem from="1588225421805" duration="4827000" />
+      <workItem from="1588230454925" duration="556000" />
+      <workItem from="1588231857433" duration="123000" />
+      <workItem from="1588232277242" duration="42000" />
+      <workItem from="1588232510254" duration="1393000" />
+      <workItem from="1588234135228" duration="585000" />
+      <workItem from="1588236675538" duration="1265000" />
+      <workItem from="1588300326693" duration="447000" />
+      <workItem from="1588648245028" duration="474000" />
+      <workItem from="1588758347976" duration="4076000" />
+      <workItem from="1588762904864" duration="153000" />
+      <workItem from="1588768795618" duration="130000" />
+      <workItem from="1588769875682" duration="1056000" />
+      <workItem from="1588919358136" duration="5650000" />
+      <workItem from="1588951905184" duration="2386000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
